@@ -3,6 +3,10 @@
 ## Descrição
 Este é um projeto simples de relógio digital desenvolvido com HTML, CSS e JavaScript. O relógio exibe as horas, minutos e segundos em tempo real.
 
+### Visualize o projeto:
+
+Você pode visualizar o projeto em funcionamento através deste [link GitHub Pages](https://wannessah.github.io/relogio-digital/).
+
 ## Tecnologias Utilizadas
 - HTML: Estrutura da página.
 - CSS: Estilos e design.
